@@ -15,7 +15,7 @@
 
 - <kbd>darkmode</kbd>
 
-  *AppCompatDelegate.setDefaultNighMode()*을 이용한 Android DarkMode 적용
+  *AppCompatDelegate.setDefaultNighMode*()을 이용한 Android DarkMode 적용
 
 - <kbd>push_alarm_ex</kbd>
 
