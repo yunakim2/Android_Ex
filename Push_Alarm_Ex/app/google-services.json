@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060432640938",
+    "firebase_url": "https://pushalarmex.firebaseio.com",
+    "project_id": "pushalarmex",
+    "storage_bucket": "pushalarmex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060432640938:android:368ef48c5b57c14098c9d3",
+        "android_client_info": {
+          "package_name": "com.example.push_alarm_ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060432640938-9982ja9p478ns15bcbqkb6t0afij43m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwFYbq9Y3qgqLc5_YC5mLUvOzAGRRolg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060432640938-9982ja9p478ns15bcbqkb6t0afij43m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
